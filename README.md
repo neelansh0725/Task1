@@ -1,1 +1,2 @@
-# Task1
+SportShark – Responsive Landing Page
+SportShark is a simple and responsive landing page designed for a sports products brand. It features a clean UI with sections for Home, Products, Reviews, and Contact. The page promotes special offers related to football gear, especially during major events like the UEFA Champions League final. Built using HTML and CSS, this project is ideal for beginners looking to understand layout, navigation, and responsive design.
