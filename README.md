@@ -15,12 +15,6 @@ A simple and responsive landing page for **SportShark**, a fictional brand that 
 - About, contact, and social media footer
 - Mobile responsive design
 
-## 📸 Preview
-
-> ![Screenshot Placeholder](#)
-
-_You can insert a screenshot here if you like._
-
 ## 🛠 Technologies Used
 
 - HTML5
